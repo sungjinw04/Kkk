@@ -1,0 +1,10 @@
+OWNER_ID = 7363725350
+API_ID = 21370037
+API_HASH = "0b57036f40bb6da488d05b43e2d20dc"
+MONGO_DB = "mongodb+srv://tanjiro1564:tanjiro1564@cluster0.pp5yz4e.mongodb.net/?retryWrites=true&w=majority"
+SUPPORT_GROUP = "SOULBOTSUPPORT"
+SUPPORT_CHANNEL = "BEYONDLIMIT7"
+BOT_TOKEN = "7329929698:AAGD5Ccwm0qExCq9_6GVHDp2E7iidLH-McU"
+JOINLOGS = int
+LEAVELOGS = int
+BOT_USERNAME = "testing_xprobot"
