@@ -15,5 +15,21 @@ class Config:
   BOT_USERNAME = BOT_USERNAME
   LEAVELOGS = LEAVELOGS
   JOINLOGS = JOINLOGS
+
+logging.basicConfig(
+  format='%(asctime)s-%(name)s-%
+  (levelname)s-%(message)s',
+  level=logging.INFO) 
+logger = logging.getlogger(name)
+
+
+
+
+Bot= Client(
+  "testing bot"
+  api_id=Config.API_ID,
+  api_hash=Config.API_HASH,
+  bot_token=Config.BOT_TOKEN
+  )
   
   
